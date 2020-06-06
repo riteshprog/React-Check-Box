@@ -69,3 +69,12 @@ span{
   margin-top: -0.8rem !important;
 }
 
+.child-coponent{
+  display: flex;
+  color:gray;
+  padding-top: 50%;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  
+}
